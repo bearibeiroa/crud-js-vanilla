@@ -4,7 +4,7 @@ Esse CRUD foi criado como forma de estudo a partir do vídeo do Mario Souto - [@
 
 Trata-se de um CRUD usando apenas Javascript para simular um banco de dados de uma aplicação inspirada no Twitter, onde é possível criar, ler, atualizar e deletar usuários e mensagens.
 
-### Como acessar
+## Como acessar
 
 1. Clone o projeto
 * `git clone https://github.com/bearibeiroa/crud-js-vanilla.git`
